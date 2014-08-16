@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Steen Hulthin RAsmussen"
+permalink: title.html
+title: "Steen Hulthin Rasmussen"
 ---
 
 # Steen Hulthin
