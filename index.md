@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Steen Hulthin RAsmussen"
 ---
 
 # Steen Hulthin
