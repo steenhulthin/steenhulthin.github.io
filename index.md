@@ -13,4 +13,11 @@ def foo
 end
 {% endhighlight %}
 
+```ruby
+def foo
+  puts 'foo'
+end
+```
+
+
 ## the end
