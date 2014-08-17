@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: title.html
 title: "Steen Hulthin Rasmussen"
 ---
 
