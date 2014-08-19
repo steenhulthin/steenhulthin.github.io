@@ -3,22 +3,9 @@ layout: default
 title: "Steen Hulthin Rasmussen"
 ---
 
-# Steen Hulthin
+# Steen Hulthin Rasmussen
 
-Hello world! 
-
-
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-
-```ruby
-def foo
-  puts 'foo'
-end
-```
+Steen is a software developer and/or GIS dude. 
 
 
-## the end
+
