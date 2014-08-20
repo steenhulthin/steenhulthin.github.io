@@ -12,7 +12,7 @@ You like border around this - like the thumbnails from [Twitter Bootstrap 3](htt
 
 It might look like this: 
 
-<img class="thumbnail" href="/assests/add-a-border-around-your-leaflet-map/steen_work_portrait.jpg">picture in bootstrap thumbnail</img>
+<img class="thumbnail" src="/assests/add-a-border-around-your-leaflet-map/steen_work_portrait.jpg" alt="picture in bootstrap thumbnail" />
 
 ![picture in bootstrap thumbnail](/assests/add-a-border-around-your-leaflet-map/steen_work_portrait.jpg)
 
