@@ -12,7 +12,7 @@ You like border around this - like the thumbnails from [Twitter Bootstrap 3](htt
 
 It might look like this: 
 
-[picture in bootstrap thumbnail][assests/add-a-border-around-your-leaflet-map/bootstrap_thumbnail.png]
+![picture in bootstrap thumbnail][assests/add-a-border-around-your-leaflet-map/bootstrap_thumbnail.png]
 
 But adding the `thumbnail` class to the element containing the leaflet map won't have the desired effect. 
 
