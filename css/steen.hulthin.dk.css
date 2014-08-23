@@ -1,0 +1,111 @@
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+html {
+  font-family: sans-serif;
+}
+mark {
+  background: #ff0;
+  color: #000;
+}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+}
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+fieldset {
+  border: 1px solid #c0c0c0;
+}
+html {
+  font-family: 'PT Sans', sans-serif;
+}
+pre,
+code {
+  font-family: 'Inconsolata', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+}
+html {
+  background-color: #073642;
+  color: #839496;
+  margin: 1em;
+}
+body {
+  background-color: #002b36;
+  border: 1pt solid #586e75;
+}
+code {
+  background-color: #073642;
+}
+a {
+  color: #b58900;
+}
+a:visited {
+  color: #cb4b16;
+}
+a:hover {
+  color: #cb4b16;
+}
+h1 {
+  color: #d33682;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #859900;
+}
+pre {
+  background-color: #002b36;
+  color: #839496;
+  box-shadow: 5pt 5pt 8pt #073642;
+}
+pre code {
+  background-color: #002b36;
+}
+.tag {
+  background-color: #073642;
+  color: #d33682;
+}
+.todo,
+.next,
+.done {
+  color: #002b36;
+  background-color: #dc322f;
+}
+.TODO {
+  background-color: #2aa198;
+}
+.NEXT {
+  background-color: #268bd2;
+}
+.ACTIVE {
+  background-color: #268bd2;
+}
+.DONE {
+  background-color: #859900;
+}
+.WAITING {
+  background-color: #cb4b16;
+}
+.HOLD {
+  background-color: #d33682;
+}
+.NOTE {
+  background-color: #d33682;
+}
+.CANCELLED {
+  background-color: #859900;
+}
