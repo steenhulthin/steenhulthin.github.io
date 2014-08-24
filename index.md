@@ -5,12 +5,12 @@ title: "Steen Hulthin Rasmussen's Piece of the Web"
 
 # Steen Hulthin Rasmussen
 
-Steen is a software developer and/or GIS dude. 
+Steen is a software developer and/or [GIS]() dude. 
 
 ## Projects
 
-* EndRegions
-* MapBasicUnit
+* [The Anti Region Legion](http://anti-region-legion.org) - a coding style religious movement - relax it's mostly for fun.
+* [MapBasicUnit](http://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](http://www.mapinfo.com/product/mapinfo-mapbasic/) is a language for the desktop GIS [MapInfo](http://www.mapinfo.com/).
 * rst
 * FreeMarker
 * LOLcode
