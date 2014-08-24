@@ -74,7 +74,7 @@ I'm also regularly present here:
 
 Contact:
 - email
-- skype
+- [skype](skype:steenhulthin?call)
 
 
 Other Pages:
