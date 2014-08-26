@@ -74,7 +74,7 @@ I'm also regularly present here:
 - [YouTube](https://www.youtube.com/user/steenhulthin)
 
 Contact:
-- email
+- email (encode steen`snabela`hulthin.dk)
 - [skype](skype:steenhulthin?call)
 
 
