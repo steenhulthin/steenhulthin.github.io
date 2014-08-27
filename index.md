@@ -5,7 +5,7 @@ title: "Steen Hulthin Rasmussen's Piece of the Web"
 
 # Steen Hulthin Rasmussen
 
-Steen is a software developer and/or [GIS](http://en.wikipedia.org/wiki/Geographic_information_system) dude. 
+I'm a software developer and/or [GIS](http://en.wikipedia.org/wiki/Geographic_information_system) dude. 
 
 ## Projects
 
