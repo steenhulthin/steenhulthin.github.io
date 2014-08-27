@@ -9,12 +9,15 @@ Steen is a software developer and/or [GIS](http://en.wikipedia.org/wiki/Geograph
 
 ## Projects
 
-* [The Anti Region Legion](http://anti-region-legion.org) - a coding style movement for a better `C#` world. 
 * [MapBasicUnit](http://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](http://www.mapinfo.com/product/mapinfo-mapbasic/) is a language for the desktop GIS [MapInfo](http://www.mapinfo.com/).
 * [reStructuredText_NPP](http://steenhulthin.github.io/reStructuredText_NPP/) - Syntax highlighting for [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](http://notepad-plus-plus.org/).
 * [FreeMarker_NPP](http://steenhulthin.github.io/freemarker_NPP/) - Syntax highlighting for the template language [FreeMarker](http://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](http://notepad-plus-plus.org/).
-* [LOLCODE_NPP](http://steenhulthin.github.io/LOLCODE_NPP/) - Syntax highlighting for [LOLCODE](http://en.wikipedia.org/wiki/LOLCODE) for [Notepad++](http://notepad-plus-plus.org/).
 
+## Projects for Fun
+
+* [The Anti Region Legion](http://anti-region-legion.org) - a coding style movement for a better `C#` world. 
+* [LOLCODE_NPP](http://steenhulthin.github.io/LOLCODE_NPP/) - Syntax highlighting for [LOLCODE](http://en.wikipedia.org/wiki/LOLCODE) for [Notepad++](http://notepad-plus-plus.org/).
+* [CollatzConjecture.Net](https://github.com/steenhulthin/CollatzConjecture.Net) - a .net library for calculating solutions to [Collatz Conjecture](http://en.wikipedia.org/wiki/Collatz_conjecture) problems. 
 
 ## Writing
 
