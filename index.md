@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: steen_hulthin_rasmussen
 title: "Steen Hulthin Rasmussen's Piece of the Web"
 ---
 
