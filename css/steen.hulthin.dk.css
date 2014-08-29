@@ -1,37 +1,12 @@
-html {
-  font-family: sans-serif;
-}
 mark {
   background: #ff0;
   color: #000;
-}
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, serif;
 }
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
 fieldset {
   border: 1px solid #c0c0c0;
-}
-html {
-  font-family: sans-serif;
-}
-pre,
-code {
-  font-family: sans-serif;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: sans-serif;
-  font-weight: 700;
 }
 html {
   background-color: #002b36;
@@ -53,7 +28,7 @@ a:hover {
   color: #cb4b16;
 }
 h1 {
-  color: #d33682;
+  color: #268bd2;
 }
 h2,
 h3,
