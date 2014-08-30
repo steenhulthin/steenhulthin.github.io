@@ -9,6 +9,8 @@ I'm a software developer and/or [GIS](http://en.wikipedia.org/wiki/Geographic_in
 
 ## Projects
 
+I maintain a few [Open Source Software](http://opensource.com/resources/what-open-source) projects: 
+
 * [MapBasicUnit](http://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](http://www.mapinfo.com/product/mapinfo-mapbasic/) is a language for the desktop GIS [MapInfo](http://www.mapinfo.com/).
 * [reStructuredText_NPP](http://steenhulthin.github.io/reStructuredText_NPP/) - Syntax highlighting for [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](http://notepad-plus-plus.org/).
 * [FreeMarker_NPP](http://steenhulthin.github.io/freemarker_NPP/) - Syntax highlighting for the template language [FreeMarker](http://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](http://notepad-plus-plus.org/).
@@ -90,3 +92,5 @@ Other Pages:
 	* github pages
 * 404
 * CV
+
+add last updated - date
