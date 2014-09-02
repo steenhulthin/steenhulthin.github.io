@@ -27,7 +27,7 @@ These are the things I love most about myself:
 * I love that I can make people smile and I don't really care if I'm smiled at or with.
 * That I still what to improve and what to learn new things even as a semi-old person as much as I did when I was younger. 
 
-## What I have done all life? 
+## Things I've done 
 
 * Won the Nordic championship in chess for school teams.
 * Qualified for the Nordic championship in chess for high school teams.
@@ -66,6 +66,9 @@ Besides writing code I also write blog posts. The topic is mostly technical stuf
 
 ## Me on the web
 
+- Email (encode steen`snabela`hulthin.dk)
+- [Skype](skype:steenhulthin?call)
+
 The primary places I hang out on the internet:
 * [Twitter](http://twitter.com/steenhulthin)
 * [Github](http://github.com/steenhulthin)
@@ -76,11 +79,6 @@ I'm also regularly present here:
 - [Google Plus](https://plus.google.com/+SteenHulthinRasmussen)
 - [StackExchange](http://stackexchange.com/users/287456/steenhulthin?tab=accounts)
 - [YouTube](https://www.youtube.com/user/steenhulthin)
-
-## Contact:
-- Email (encode steen`snabela`hulthin.dk)
-- [Skype](skype:steenhulthin?call)
-
 
 Other Pages:
 

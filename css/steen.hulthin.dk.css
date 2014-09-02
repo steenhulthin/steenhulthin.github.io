@@ -1,3 +1,51 @@
+body, 
+section li {
+font-size: 1.4em;
+}
+h2 {
+    text-align: center;
+}
+#contact {
+    padding-bottom: 20.0em;
+}
+.content-section {
+    padding-top: 1.0em;
+}
+@media(min-width:767px) {
+    .content-section {
+        padding-top: 5.0em;
+    }
+
+    .download-section {
+        padding: 100px 0;
+    }
+}
+.intro {
+    background: none;
+    text-align: left;
+}
+.intro .intro-body .brand-heading {
+    font-size: 4em;
+}
+
+.intro .intro-body .intro-text {
+    font-size: 1.8em;
+}
+
+@media(min-width:767px) {
+    .intro {
+        height: 100%;
+        padding: 0;
+    }
+
+    .intro .intro-body .brand-heading {
+        font-size: 10em;
+    }
+
+    .intro .intro-body .intro-text {
+        font-size: 2.5em;
+    }
+}
 mark {
   background: #ff0;
   color: #000;
@@ -13,6 +61,7 @@ html {
   color: #839496;
 }
 body {
+  padding-top: 5em;
   background-color: #002b36;
 }
 code {
