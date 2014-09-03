@@ -40,7 +40,7 @@ These are the things I love most about myself:
 
 ## Community
 
-I feel a part of the global software development community. In my opinion you are a member of a community even if you only "consuming" and not contributing in the a more traditional way. I have presented at a couple of occasions and I regularly contribute. 
+I feel a part of the global software development community. In my opinion you are a member of a community even if you only "consuming" and not contributing in the a more traditional way. I have presented at a couple of occasions and I contribute when time permits it, but only because I like it. 
 
 I attend conferences regularly. I have been attending [Oredev](http://oredev.org) every year since 2011, [Leetspeak](http://leetspeak.se) since it's start in 2012 and Danish Developer Conference since 2013.
 
