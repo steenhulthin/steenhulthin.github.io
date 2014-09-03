@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #839496;
-    background-color: #002b36;;
+    background-color: #002b36;
 }
 
 html {
@@ -93,7 +93,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active {
-    outline: nonte;
+    outline: none;
     background-color: rgba(255,255,255,.3);
 }
 
@@ -139,7 +139,7 @@ a:focus {
     text-align: center;
     color: #839496;
     background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
-    background-color: #002b36;;
+    background-color: #002b36;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
