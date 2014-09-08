@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: blogpost
+title: Add a Border Around your Leaflet map
 ---
 
 #Add a Border Around your Leaflet map
