@@ -14,6 +14,17 @@
     - [ ] Verify links will not break (trailing / and .html).
 - [ ] Create blog landing page.
     - [ ] List of all posts and search bar.
+- [ ] create the blog.html template
+    - [ ] aside bar
+        - [ ] tags
+        - [ ] related?
+        - [ ] latest within tag?
+        - [ ] latest
+        - [ ] before - after?
+    - [ ] comments?
+    - [ ] Header?
+    - [ ] Footer?
+    - [ ] Links? (steen's. blog landing, percipio?)
 - [ ] Add youtube fallback for github pages
 - [ ] Add tweet fallback for github pages
 - [ ] Make code markup
