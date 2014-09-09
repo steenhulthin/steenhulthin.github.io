@@ -80,14 +80,3 @@ I'm also regularly present here:
 - [StackExchange](http://stackexchange.com/users/287456/steenhulthin?tab=accounts)
 - [YouTube](https://www.youtube.com/user/steenhulthin)
 
-Other Pages:
-
-* Techonology used to build this site.
-	* Portable Jekyll
-	* tw bootstrap 3
-	* startbootstrap.com
-	* github pages
-* 404
-* CV
-
-add last updated - date
