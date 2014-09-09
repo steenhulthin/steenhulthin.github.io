@@ -2,6 +2,10 @@
         <div class="container text-center">
             <hr/>
             <p>Steen Hulthin Rasmussen's piece of the internet.</p>
+            <p>Page created: {{ page.date | date: "%-d %B %Y" }}</p>
+            {% if page.lastupdated %}
+            <p>Last updated: {{ page.lastupdated | date: "%-d %B %Y" }}</p>
+            {% endif %}
         </div>
     </footer>
 {% include javascript.htm %}

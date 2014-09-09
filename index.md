@@ -1,6 +1,7 @@
 ---
 layout: steen_hulthin_rasmussen
 title: "Steen Hulthin Rasmussen's Piece of the Web"
+date: 2014-09-09
 ---
 
 # Steen Hulthin Rasmussen (home)

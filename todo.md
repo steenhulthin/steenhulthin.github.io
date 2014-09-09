@@ -1,8 +1,8 @@
 # Web site steen.hulthin.dk todo
 
-- [ ] Last modified date
-    - [ ] Add last modified date to landing page.
-    - [ ] Add last modified date to posts.
+- [X] Created and Last modified date
+    - [X] Add created and last modified date to landing page.
+    - [X] Add created and last modified date to posts.
 - [ ] social media buttons
     - [ ] skype button
     - [ ] Facebook button
