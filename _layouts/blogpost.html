@@ -4,19 +4,12 @@
     {% include headcontent.htm %}
 </head>
 <body id="page-top" class="container">
-    <div class="col-md-8 col-md-offset-2">
-        {{ content }}
+    <div class="row">
+        <article class="col-md-9">
+            {{ content }}
+        </article>
+        {% include blog_aside.htm %}
     </div>
-    <aside>
-        <h3>Posts</h3>
-        <ul>
-            {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </aside>
     {% include footer.htm %}
 </body>
 </html>

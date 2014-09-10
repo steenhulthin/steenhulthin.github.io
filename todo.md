@@ -29,6 +29,8 @@
 - [ ] Add tweet fallback for github pages
 - [ ] Make code markup
 - [ ] Add tags (topics) to blog.
+- [ ] Go through <http://webdevchecklist.com/>
+- [ ] add rss feed?
 
 Other Pages:
 
