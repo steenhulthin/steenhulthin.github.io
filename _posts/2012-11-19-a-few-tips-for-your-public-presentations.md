@@ -2,7 +2,6 @@
 layout: blogpost
 title: A few tips for your public presentations
 lastupdated: 2014-09-15
-permalink: /blog/a-few-tips-for-your-public-presentations/
 ---
 
 # A few tips for your public presentations
