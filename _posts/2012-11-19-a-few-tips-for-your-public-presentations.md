@@ -2,6 +2,7 @@
 layout: blogpost
 title: A few tips for your public presentations
 lastupdated: 2014-09-15
+category: Uncategorized
 ---
 
 # A few tips for your public presentations

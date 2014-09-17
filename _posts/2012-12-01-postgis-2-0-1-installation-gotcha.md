@@ -2,6 +2,7 @@
 layout: blogpost
 title: PostGIS 2.0.1 Installation Gotcha
 lastupdated: 2014-09-16
+categories: [GIS, PostGIS]
 ---
 ## PostGIS 2.0.1 Installation Gotcha
 
