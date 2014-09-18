@@ -2,6 +2,7 @@
 layout: blogpost
 title: Why Esri Forums suck (and How to Fix It)!
 lastupdated: 2014-09-16
+category: Opinion
 ---
 #Why Esri Forums suck (and How to Fix It)!
 

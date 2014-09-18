@@ -2,7 +2,7 @@
 layout: blogpost
 title: Test Naming - Kevlin Henney Style
 lastupdated: 2014-09-09
-permalink: /blog/test-naming-kevlin-henney-style/
+category: Software development
 ---
 
 # Test Naming - Kevlin Henney Style

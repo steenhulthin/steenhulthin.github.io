@@ -1,6 +1,7 @@
 ---
 layout: blogpost
 title: Add a Border Around your Leaflet map
+categories: [GIS, Leaflet]
 ---
 
 #Add a Border Around your Leaflet map
