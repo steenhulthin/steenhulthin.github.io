@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-categories: [.net gadgeteer, .net microframe work]
+categories: [.net gadgeteer, .net micro framework]
 ---
 
 Hello .net Gadgeteer
