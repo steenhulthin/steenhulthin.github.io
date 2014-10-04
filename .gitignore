@@ -1,2 +1,4 @@
 glob
 _site
+.DS_Store
+
