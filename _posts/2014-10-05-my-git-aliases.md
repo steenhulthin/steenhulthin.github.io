@@ -1,5 +1,6 @@
 ---
 layout: blogpost
+categories: [development, git]
 ---
 # My git aliases
 
