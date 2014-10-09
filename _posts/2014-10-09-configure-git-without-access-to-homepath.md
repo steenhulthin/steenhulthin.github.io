@@ -25,7 +25,7 @@ to the `gitconfig` file.
 
 I would normally configure the following things (on Windows):
 
-
+``
 
 ## tl;dr
 
