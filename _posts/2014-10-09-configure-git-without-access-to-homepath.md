@@ -23,7 +23,9 @@ will write this:
 
 to the `gitconfig` file. 
 
-I would normally 
+I would normally configure the following things (on Windows):
+
+
 
 ## tl;dr
 
