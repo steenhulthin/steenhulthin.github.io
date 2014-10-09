@@ -25,7 +25,33 @@ to the `gitconfig` file.
 
 I would normally configure the following things (on Windows):
 
-``
+`git config --global alias.st "status"`
+`git config --global alias.co "checkout"`
+`git config --global alias.ci "commit"`
+`git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"`
+`git config --global user.name "Ada Lovelace"`
+`git config --global user.email "ada@lovelace.org"`
+`git config --global push.default "matching"`
+`git config --global credential.helper "winstore"`
+
+which translates to:
+
+`[alias]
+	st = status
+	co = checkout
+	ci = commit
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+[user]
+	name = "Ada Lovelace"
+	email = "ada@lovelace.org"
+[push]
+	default = matching
+[credential]
+	helper = winstore`
+
+in the `gitconfig` file.
+
+Please note that you should only use the last configuration if you actually install [git-credential-winstore](https://gitcredentialstore.codeplex.com/) (which I recommend if you are on windows).
 
 ## tl;dr
 
