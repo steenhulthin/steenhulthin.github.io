@@ -8,11 +8,17 @@ This post is not a (for me) typical technical post. This post is about how a lar
 
 #Start
 
-- [ ] the work
-- [ ] the agreements/contract (time and materials)
-- [ ] the long period of nothings wrong
+It all started out just fine. I had made contract with a large engineering company to deliver some work (time and material base - not that it matters). It all went pretty well. The end customer was happy. I sent invoices monthly (I believe 2 of them - it was a fairly small project). So that was that I thought. I was wrong.
 
 #Accounting
+
+Just a little background about me: I was a freelancer/independent consultant for a few year and have only recently started to work as a permanent employee. I admit I'm a bit sloppy when it comes to the administration of my company. I like the technical work, but the economy part does not interest me as much. This is why it was not until I did my company accounting that I discovered that one of the invoices had not been paid. 
+
+I politely send an email, asking about the missing payment. I didn't get an answer. I called and was referred to the second-in-command of the department. He didn't answer. 
+
+It pretty much went on like this for 2-3 weeks. Finally I got a e-mail suggesting that we made some kind of deal, since they had not invoiced the end customer. I feel a have to mention that in my contract with the engineering there no direct connection to the end customer. The end customer was entirely the business of the engineering company. So I declined making any kind of deal. 
+
+Then I go an email suggesting that they would pay half of the invoice.
 
 - [ ] accounting and finding the missing payment - How I failed.
 - [ ] radio silence
