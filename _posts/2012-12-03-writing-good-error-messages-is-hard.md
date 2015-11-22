@@ -103,3 +103,5 @@ Sorry, something unexpected happened on the server.
 	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
 	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
 	at org.mortbay.thread.BoundedThreadPool$PoolThread.run(BoundedThreadPool.java:450)`
+
+Next time you write an error message try to make it short and clear. You will thank yourself later.
