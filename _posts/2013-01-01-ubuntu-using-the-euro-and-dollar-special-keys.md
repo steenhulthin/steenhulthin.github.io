@@ -1,9 +1,9 @@
 ---
 layout: blogpost
 title: Ubuntu: Using the Euro and Dollar Special Keys
-lastupdated: 2013-01-01
 categories: [IT]
 ---
+
 # Ubuntu: Using the Euro and Dollar Special Keys
 
 # What's the problem 
