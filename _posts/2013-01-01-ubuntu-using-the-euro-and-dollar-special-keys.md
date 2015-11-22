@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Ubuntu (colon) Using the Euro and Dollar Special Keys
+title: 'Ubuntu: Using the Euro and Dollar Special Keys'
 categories: [IT]
 ---
 
