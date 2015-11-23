@@ -11,6 +11,7 @@ categories: [IT]
 The Danish version of Acer Travelmate 5515 (5510 series) has the following keyboard layout: 
 
 [<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/acer_keyboard-1024x463.png" alt="acer 5510 keyboard layout (danish)" title="acer_keyboard" width="584" height="264" class="alignnone size-large wp-image-112" />][1] 
+
 Ignore that it is a Danish keyboard layout and in stead focus on the € and $ keys above the arrow keys. 
 [<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/acer_keyboard_arrows.png" alt="acer arrow keys, € and $ group of keys" title="acer_keyboard_arrows" width="356" height="185" class="alignnone size-full wp-image-113" />][2] 
 The € and the $ keys above the left and right arrow key respectively are dead with the standard install of ubuntu 12.04 (with standard Danish keyboard layout).   
