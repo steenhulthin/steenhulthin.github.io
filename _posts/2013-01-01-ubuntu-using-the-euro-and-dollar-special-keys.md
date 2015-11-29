@@ -10,16 +10,16 @@ categories: [IT]
 
 The Danish version of Acer Travelmate 5515 (5510 series) has the following keyboard layout: 
 
-[<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/acer_keyboard-1024x463.png" alt="acer 5510 keyboard layout (danish)" title="acer_keyboard" width="584" height="264" class="alignnone size-large wp-image-112" />][1] 
+[<img src="/wp-content/uploads/2012/12/acer_keyboard-1024x463.png" alt="acer 5510 keyboard layout (danish)" title="acer_keyboard" width="584" height="264" class="alignnone size-large wp-image-112" />][1] 
 
 Ignore that it is a Danish keyboard layout and in stead focus on the € and $ keys above the arrow keys. 
 
-[<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/acer_keyboard_arrows.png" alt="acer arrow keys, € and $ group of keys" title="acer_keyboard_arrows" width="356" height="185" class="alignnone size-full wp-image-113" />][2] 
+[<img src="/wp-content/uploads/2012/12/acer_keyboard_arrows.png" alt="acer arrow keys, € and $ group of keys" title="acer_keyboard_arrows" width="356" height="185" class="alignnone size-full wp-image-113" />][2] 
 
 The € and the $ keys above the left and right arrow key respectively are dead with the standard install of ubuntu 12.04 (with standard Danish keyboard layout).   
 I wanted to have [page up] where the € is and [page down] where the $ is. Like this: 
 
-[<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/fujitsu_keyboard_arrows.png" alt="keyboard layout with page up above the left arrow and page down above right arrow" title="fujitsu_keyboard_arrows" width="315" height="180" class="alignnone size-full wp-image-115" />][3] 
+[<img src="/wp-content/uploads/2012/12/fujitsu_keyboard_arrows.png" alt="keyboard layout with page up above the left arrow and page down above right arrow" title="fujitsu_keyboard_arrows" width="315" height="180" class="alignnone size-full wp-image-115" />][3] 
 
 This is a fairly common layout (this is from a Fujitsu Celsius H710 laptop) and I think it makes perfect sense to have all the navigation keys close to each other. 
 
@@ -37,7 +37,7 @@ setkeycodes 0xB3 104
 setkeycodes 0xB4 109
 `) and save and exit ` ctrl-x -> y ` (for yes to saving) -> `enter` (to save as /etc/rc.local) 
 
-[<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2013/01/add_setkeycodes_to_rc.local_.png" alt="screenshot of adding setkeycodes to rc.local" title="add_setkeycodes_to_rc.local" width="724" height="463" class="alignnone size-full wp-image-137" />][4] 
+[<img src="/wp-content/uploads/2013/01/add_setkeycodes_to_rc.local_.png" alt="screenshot of adding setkeycodes to rc.local" title="add_setkeycodes_to_rc.local" width="724" height="463" class="alignnone size-full wp-image-137" />][4] 
 
 4.  reboot
 5.  Enjoy the new keybindings
@@ -55,9 +55,9 @@ But how did I know want scancode and keycode to use. Good question. The short an
 *   **Keycodes**  
     in the file /usr/include/linux/input.h under the section "Keys and buttons" you can see which keys are mapped to what decimal number. Go ahead and find the key you want to map your scancode to. 
 	
-	[<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2013/01/keys_and_buttons_section_in_input.h.png" alt="screenshot of keys and buttons section in input.h" title="keys_and_buttons_section_in_input.h" width="724" height="463" class="alignnone size-full wp-image-143" />][7]   
+	[<img src="/wp-content/uploads/2013/01/keys_and_buttons_section_in_input.h.png" alt="screenshot of keys and buttons section in input.h" title="keys_and_buttons_section_in_input.h" width="724" height="463" class="alignnone size-full wp-image-143" />][7]   
     
-	[<img src="http://steen.hulthin.dk/blog/wp-content/uploads/2013/01/input.h_key_pageup_binding.png" alt="key_pageup map in the input.h file" title="input.h_key_pageup_binding" width="724" height="463" class="alignnone size-full wp-image-142" />][8] </p> 
+	[<img src="/wp-content/uploads/2013/01/input.h_key_pageup_binding.png" alt="key_pageup map in the input.h file" title="input.h_key_pageup_binding" width="724" height="463" class="alignnone size-full wp-image-142" />][8] </p> 
 
 ## Further reading:
 
@@ -68,11 +68,11 @@ But how did I know want scancode and keycode to use. Good question. The short an
 *   Post which includes solution similar to this: <http://ubuntuforums.org/showthread.php?t=1286534>
 *   Other solutions to problems with key on Ubuntu <http://askubuntu.com/questions/133113/emulate-keypad-on-laptop/142339#142339> <http://askubuntu.com/questions/141479/dell-inspiron-n5110-keyboard-touchpad/144207#144207> <http://askubuntu.com/questions/145589/how-to-change-the-functionality-of-keyboard-special-keys>
 
- [1]: http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/acer_keyboard.png
- [2]: http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/acer_keyboard_arrows.png
- [3]: http://steen.hulthin.dk/blog/wp-content/uploads/2012/12/fujitsu_keyboard_arrows.png
- [4]: http://steen.hulthin.dk/blog/wp-content/uploads/2013/01/add_setkeycodes_to_rc.local_.png
+ [1]: /wp-content/uploads/2012/12/acer_keyboard.png
+ [2]: /wp-content/uploads/2012/12/acer_keyboard_arrows.png
+ [3]: /wp-content/uploads/2012/12/fujitsu_keyboard_arrows.png
+ [4]: /wp-content/uploads/2013/01/add_setkeycodes_to_rc.local_.png
  [5]: http://linux.about.com/library/cmd/blcmdl8_setkeycodes.htm
  [6]: https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/313514
- [7]: http://steen.hulthin.dk/blog/wp-content/uploads/2013/01/keys_and_buttons_section_in_input.h.png
- [8]: http://steen.hulthin.dk/blog/wp-content/uploads/2013/01/input.h_key_pageup_binding.png
+ [7]: /wp-content/uploads/2013/01/keys_and_buttons_section_in_input.h.png
+ [8]: /wp-content/uploads/2013/01/input.h_key_pageup_binding.png
