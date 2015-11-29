@@ -27,10 +27,9 @@ This is a fairly common layout (this is from a Fujitsu Celsius H710 laptop) and 
 
 To remap your the € and $ keys to [page up] and [page down] on acer add the lines: 
 
-`
-setkeycodes 0xB3 104
-setkeycodes 0xB4 109
-`
+`setkeycodes 0xB3 104`
+
+`setkeycodes 0xB4 109`
 
 to the ` /etc/rc.local ` file (before the `exit 0` line)  Step I did: 
 
