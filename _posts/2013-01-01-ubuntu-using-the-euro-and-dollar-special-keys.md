@@ -40,7 +40,7 @@ setkeycodes 0xB3 104
 setkeycodes 0xB4 109
 `) and save and exit ` ctrl-x -> y ` (for yes to saving) -> `enter` (to save as /etc/rc.local) 
 
-[<img src="/blog/wp-content/uploads/2013/01/add_setkeycodes_to_rc.local_.png" alt="screenshot of adding setkeycodes to rc.local" title="add_setkeycodes_to_rc.local" width="724" height="463" class="alignnone size-full wp-image-137" />][4] 
+	[<img src="/blog/wp-content/uploads/2013/01/add_setkeycodes_to_rc.local_.png" alt="screenshot of adding setkeycodes to rc.local" title="add_setkeycodes_to_rc.local" width="724" height="463" class="alignnone size-full wp-image-137" />][4] 
 
 4.  reboot
 5.  Enjoy the new keybindings
