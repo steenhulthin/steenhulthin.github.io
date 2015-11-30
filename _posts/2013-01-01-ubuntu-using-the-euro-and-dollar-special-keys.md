@@ -63,7 +63,7 @@ But how did I know want scancode and keycode to use. Good question. The short an
 	
 	[<img src="/blog/wp-content/uploads/2013/01/keys_and_buttons_section_in_input.h.png" alt="screenshot of keys and buttons section in input.h" title="keys_and_buttons_section_in_input.h" width="724" height="463" class="alignnone size-full wp-image-143" />][7]   
     
-	[<img src="/blog/wp-content/uploads/2013/01/input.h_key_pageup_binding.png" alt="key_pageup map in the input.h file" title="input.h_key_pageup_binding" width="724" height="463" class="alignnone size-full wp-image-142" />][8] </p> 
+	[<img src="/blog/wp-content/uploads/2013/01/input.h_key_pageup_binding.png" alt="key_pageup map in the input.h file" title="input.h_key_pageup_binding" width="724" height="463" class="alignnone size-full wp-image-142" />][8]  
 
 ## Further reading:
 
