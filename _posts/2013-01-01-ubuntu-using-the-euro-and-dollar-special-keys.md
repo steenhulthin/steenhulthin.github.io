@@ -48,8 +48,11 @@ setkeycodes 0xB4 109
 ## What's behind the Magic?
 
 The [`setkeycodes`][5] command maps scancodes to keycodes.   
+
 So `setkeycodes 0xB3 104` maps scancode hex B3 (the € key) to keycode decimal 104 (which is [page up])   
+
 But how did I know want scancode and keycode to use. Good question. The short answer is: 
+
 *   **Scancodes**  
     execute the command `/lib/udev/findkeyboards` this should return something like `AT keyboard: input/event4` where the 4 could be another number.   
     Now execute the command `sudo /lib/udev/keymap -i input/event4` (replacing 4 with "input/event[number]" you got from the previous command.). Press the key you want to (re)map and note the scancode. To break the program hit escape. Don't be really sleepy when you do this! :p  
