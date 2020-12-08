@@ -1,6 +1,6 @@
 # Conversion
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Outputting
 permalink:     /blog/:title

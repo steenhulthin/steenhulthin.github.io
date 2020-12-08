@@ -1,4 +1,4 @@
 glob
 _site
 .DS_Store
-
+.jekyll-cache
