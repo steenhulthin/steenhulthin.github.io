@@ -1,3 +1,5 @@
+# About Infinity
+
 I'm not saying that it is easy to define <a href="http://en.wikipedia.org/wiki/Infinity">infinity</a>. But if you are using an API - for instance in an embedded device - you might want to consider if your own definition of infinity is the same as the definition of the API.
 <h2>A real life example</h2>
 Your API defines <em>infinity</em> as <code>int32.Maxvalue</code> in milliseconds. Before we use this somewhere we expect it to run for years let's do a simple calculation:
