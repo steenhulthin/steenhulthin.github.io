@@ -10,9 +10,9 @@ I'm a software developer and/or [GIS](http://en.wikipedia.org/wiki/Geographic_in
 
 In my work life I'm a code monkey/GIS consultant in [Geoinfo A/S](https://www.geoinfo.dk). I have standard [CV available for download](https://steen.hulthin.dk/assests/cv_steen_hulthin_rasmussen.pdf) with a standard resume of some of the things I have done professionally even though I'm not a big fan of standard CVs. 
 
-[Copenhagen, Denmark](http://en.wikipedia.org/wiki/Copenhagen) is my home town. I live there together with my girlfriend and between 1 and 3 children. I really enjoy running, biking and chocolate. I love life.
+[Copenhagen, Denmark](https://en.wikipedia.org/wiki/Copenhagen) is my home town. I live there together with my girlfriend and between 1 and 3 children. I really enjoy running, biking and chocolate. I love life.
 
-I'm also a failed chess and guitar player, a [Dane](http://en.wikipedia.org/wiki/Danes) (and actually [half-swedish](http://en.wikipedia.org/wiki/Swedes), thanks to Mom), around 40 (thanks to Mom and Dad), bald (thanks to Dad) and a [chocolate lover](http://en.wikipedia.org/wiki/Chocoholic) (did I mention that already?). 
+I'm also a failed chess and guitar player, a [Dane](https://en.wikipedia.org/wiki/Danes) (and actually [half-swedish](https://en.wikipedia.org/wiki/Swedes), thanks to Mom), around 45 (thanks to Mom and Dad), bald (thanks to Dad) and a [chocolate lover](https://en.wikipedia.org/wiki/Chocoholic) (did I mention that already?). 
 
 ## The worst/best of me
 
@@ -36,7 +36,7 @@ These are the things I love most about myself:
 * Worked as [foreign student 'buddy'](https://www.dtu.dk/english/news/2014/08/dtu-welcomes-900-new-international-students?id=c876f690-ee82-42bb-b3ed-2231f85fe260) coordinator at [the Technical University of Denmark (DTU)](https://www.dtu.dk/english) - hard, but fun. 
 * Lived in Thailand for half a year - twice.
 * Graduated as an Environmental Engineer.
-* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again_pooopnuggetsalat).
+* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back).
 * Run half marathon world championship race more than twice as slow as the winner.
 
 ## Community
@@ -57,8 +57,8 @@ In the serious catagory are:
 In the mostly for fun category are:
 
 * [The Anti Region Legion](https://anti-region-legion.org) - a coding style movement for a better `C#` world. 
-* [LOLCODE_NPP](https://steenhulthin.github.io/LOLCODE_NPP/) - Syntax highlighting for [LOLCODE](http://en.wikipedia.org/wiki/LOLCODE) for [Notepad++](http://notepad-plus-plus.org/).
-* [CollatzConjecture.Net](https://github.com/steenhulthin/CollatzConjecture.Net) - a .net library for calculating solutions to [Collatz Conjecture](http://en.wikipedia.org/wiki/Collatz_conjecture) problems. 
+* [LOLCODE_NPP](https://steenhulthin.github.io/LOLCODE_NPP/) - Syntax highlighting for [LOLCODE](http://en.wikipedia.org/wiki/LOLCODE) for [Notepad++](https://notepad-plus-plus.org/).
+* [CollatzConjecture.Net](https://github.com/steenhulthin/CollatzConjecture.Net) - a .net library for calculating solutions to [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) problems. 
 * [MapBasicUnit](https://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](https://en.wikipedia.org/wiki/MapBasic) is a language for the desktop GIS [MapInfo](https://en.wikipedia.org/wiki/MapInfo_Professional). I don't think anyone has ever used this. 
 
 Besides writing code I also write blog posts. The topic is mostly technical stuff related to software development and/or GIS, but occasionally also about management and team work. You can find my blog on <https://steen.hulthin.dk/blog/>.

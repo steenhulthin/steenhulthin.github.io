@@ -4,7 +4,7 @@ categories: [development, git]
 ---
 # My git aliases
 
-As a (former?) [mercurial](http://mercurial.selenic.com/) fan I find the default git commands too long. Just compare `git status` to `hg st`. You could argue that this is a small thing, but I'm a slow typer and it just annoys me to type out `status` when I use it a bazillion times a day. 
+As a (former?) [mercurial](https://www.mercurial-scm.org/) fan I find the default git commands too long. Just compare `git status` to `hg st`. You could argue that this is a small thing, but I'm a slow typer and it just annoys me to type out `status` when I use it a bazillion times a day. 
 
 Luckily git has [alias](http://githowto.com/aliases)es which makes it easy for you to make new shorthands (or new) commands. I used some aliases from [Brendan Forster's blog on this very topic](http://www.brendanforster.com/notes/git-alias.html). Here they are (ready to paste into your git config file):
 
