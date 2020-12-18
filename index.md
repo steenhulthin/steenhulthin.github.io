@@ -33,10 +33,10 @@ These are the things I love most about myself:
 * Won the Nordic championship in chess for school teams.
 * Qualified for the Nordic championship in chess for high school teams.
 * Run a marathon.
-* Worked as [foreign student 'buddy'](http://www.dtu.dk/english/news/2014/05/welcome-to-denmark!-want-to-be-buddies) coordinator at [the Technical University of Denmark (DTU)](http://www.dtu.dk/english) - hard, but fun. 
+* Worked as [foreign student 'buddy'](https://www.dtu.dk/english/news/2014/08/dtu-welcomes-900-new-international-students?id=c876f690-ee82-42bb-b3ed-2231f85fe260) coordinator at [the Technical University of Denmark (DTU)](https://www.dtu.dk/english) - hard, but fun. 
 * Lived in Thailand for half a year - twice.
 * Graduated as an Environmental Engineer.
-* [By coincidence become a (untrained) Software Developer](http://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again/).
+* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again.html).
 * Run half marathon world championship race more than twice as slow as the winner.
 
 ## Community
@@ -45,36 +45,31 @@ I feel a part of the global software development community. In my opinion you ar
 
 I attend conferences regularly. I have been attending [Oredev](http://oredev.org) every year since 2011, [Leetspeak](http://leetspeak.se) since it's start in 2012 and Danish Developer Conference since 2013.
 
-When I have time you can find my at user group meetings, often at [Copenhagen js](http://copenhagenjs.dk/) and [Google Developer Group Copenhagen](https://plus.google.com/113724797202166933848/about)
-
 ## Projects
 
 I maintain a few [Open Source Software](http://opensource.com/resources/what-open-source) projects:
  
 In the serious catagory are: 
 
-* [MapBasicUnit](http://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](http://www.mapinfo.com/product/mapinfo-mapbasic/) is a language for the desktop GIS [MapInfo](http://www.mapinfo.com/).
-* [reStructuredText_NPP](http://steenhulthin.github.io/reStructuredText_NPP/) - Syntax highlighting for [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](http://notepad-plus-plus.org/).
-* [FreeMarker_NPP](http://steenhulthin.github.io/freemarker_NPP/) - Syntax highlighting for the template language [FreeMarker](http://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](http://notepad-plus-plus.org/).
+* [reStructuredText_NPP](https://steenhulthin.github.io/reStructuredText_NPP/) - Syntax highlighting for [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) for [Notepad++](https://notepad-plus-plus.org/).
+* [FreeMarker_NPP](https://steenhulthin.github.io/freemarker_NPP/) - Syntax highlighting for the template language [FreeMarker](https://freemarker.apache.org/) for [Notepad++](https://notepad-plus-plus.org/).
 
 In the mostly for fun category are:
 
-* [The Anti Region Legion](http://anti-region-legion.org) - a coding style movement for a better `C#` world. 
-* [LOLCODE_NPP](http://steenhulthin.github.io/LOLCODE_NPP/) - Syntax highlighting for [LOLCODE](http://en.wikipedia.org/wiki/LOLCODE) for [Notepad++](http://notepad-plus-plus.org/).
+* [The Anti Region Legion](https://anti-region-legion.org) - a coding style movement for a better `C#` world. 
+* [LOLCODE_NPP](https://steenhulthin.github.io/LOLCODE_NPP/) - Syntax highlighting for [LOLCODE](http://en.wikipedia.org/wiki/LOLCODE) for [Notepad++](http://notepad-plus-plus.org/).
 * [CollatzConjecture.Net](https://github.com/steenhulthin/CollatzConjecture.Net) - a .net library for calculating solutions to [Collatz Conjecture](http://en.wikipedia.org/wiki/Collatz_conjecture) problems. 
+* [MapBasicUnit](https://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](https://en.wikipedia.org/wiki/MapBasic) is a language for the desktop GIS [MapInfo](https://en.wikipedia.org/wiki/MapInfo_Professional). I don't think anyone has ever used this. 
 
 Besides writing code I also write blog posts. The topic is mostly technical stuff related to software development and/or GIS, but occasionally also about management and team work. You can find my blog on <https://steen.hulthin.dk/blog/>.
 
 ## Me on the web
 
 - Email (encode steen`snabela`hulthin.dk)
-- [Skype](skype:steenhulthin?call)
 
-The primary places I hang out on the internet:
-* [Github](https://github.com/steenhulthin)
-* [Facebook](https://www.facebook.com/steenhulthin)
-
-I'm also occasionally present here: 
+I occasionally use/post on following services on the internet:
+- [Github](https://github.com/steenhulthin)
+- [Facebook](https://www.facebook.com/steenhulthin)
 - [LinkedIn](https://www.linkedin.com/in/steenhulthin)
 - [StackExchange](https://stackexchange.com/users/287456/steenhulthin?tab=accounts)
 - [YouTube](https://www.youtube.com/user/steenhulthin)
