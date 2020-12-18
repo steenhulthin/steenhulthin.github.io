@@ -41,6 +41,6 @@ The code is fairly straight forward:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/Zw9b0Mj0qXM" frameborder="0" allowfullscreen></iframe>
 
- [1]: http://steen.hulthin.dk/blog/hello-net-gadgeteer/
+ [1]: http://steen.hulthin.dk/blog/hello-net-gadgeteer
  [2]: http://github.com
  [3]: https://github.com/steenhulthin/HelloButtonModule#hellobuttonmodule

@@ -5,7 +5,7 @@ categories: [.net gadgeteer, .net micro framework]
 Hello LED Strip Gadgeteer module
 ================================
 
-The day before yesterday [I showed](http://steen.hulthin.dk/blog/hello-gadgeteer-button-module/) how to use the [button module](https://www.ghielectronics.com/catalog/product/274). Today I'll make some LEDs flash. 
+The day before yesterday [I showed](http://steen.hulthin.dk/blog/hello-gadgeteer-button-module) how to use the [button module](https://www.ghielectronics.com/catalog/product/274). Today I'll make some LEDs flash. 
 
 The Code
 --------
