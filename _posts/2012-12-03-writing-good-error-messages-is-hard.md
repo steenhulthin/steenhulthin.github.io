@@ -5,11 +5,11 @@ lastupdated: 2015-11-22
 categories: [development]
 ---
 
-#Writing Good Error Messages is hard
+# Writing Good Error Messages is hard
 
 Providing your users with good error messages *is* hard. This is much better than nothing, but I have no idea of what went wrong and/or if can do something about it. And that stack trace is kinda long! This is from GeoServer 2.2.2. `
 
-##Oops, something went wrong...
+## Oops, something went wrong...
 
 Sorry, something unexpected happened on the server.
 

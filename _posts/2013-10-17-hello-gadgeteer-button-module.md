@@ -2,6 +2,7 @@
 layout: blogpost
 categories: [.net gadgeteer, .net micro framework]
 ---
+
 # Hello Gadgeteer Button Module
 
 [Yesterday I wrote][1] about the series of [github][2] repositories with Gadgeteer "Hello World" application coming.

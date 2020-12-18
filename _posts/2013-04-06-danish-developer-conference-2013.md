@@ -1,3 +1,8 @@
+---
+layout: blogpost
+categories: conferences
+---
+
 # Danish Developer Conference 2013
 
 The Danish Developer Conference is a one day conference with a very strong Microsoft technology focus. This year it had a double location setup. First location was Horsens (2nd April) and the second location was Copenhagen (4th April). I attended the conference in Copenhagen. The conference site was one of the major cinemas in Copenhagen - Cinemaxx. It worked out fairly well with the cinema rooms as presentation room. The fact that there are no windows in cinema rooms is a drawback though - a whole day of talks in vampire light conditions makes my canines grow. 

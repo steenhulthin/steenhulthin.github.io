@@ -25,21 +25,18 @@ to the `gitconfig` file.
 
 I would normally configure the following things (on Windows):
 
-`git config --global alias.st "status"`
+{% highlight cmd %}
 
-`git config --global alias.co "checkout"`
+git config --global alias.st "status"
+git config --global alias.co "checkout"
+git config --global alias.ci "commit"
+git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
+git config --global user.name "Ada Lovelace"
+git config --global user.email "ada@lovelace.org"
+git config --global push.default "matching"
+git config --global credential.helper "winstore"
 
-`git config --global alias.ci "commit"`
-
-`git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"`
-
-`git config --global user.name "Ada Lovelace"`
-
-`git config --global user.email "ada@lovelace.org"`
-
-`git config --global push.default "matching"`
-
-`git config --global credential.helper "winstore"`
+{% endhighlight %}
 
 which translates to:
 

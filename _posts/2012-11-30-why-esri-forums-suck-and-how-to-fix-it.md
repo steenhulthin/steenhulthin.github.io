@@ -4,7 +4,7 @@ title: Why Esri Forums suck (and How to Fix It)!
 lastupdated: 2014-09-16
 category: Opinion
 ---
-#Why Esri Forums suck (and How to Fix It)!
+# Why Esri Forums suck (and How to Fix It)!
 
 [Esri][1] has a number of [forums][2] where the ArcGIS/esri community and esri employees can help with questions on esri software. That is all a good idea. The problem however is that it doesn't really work. 
 

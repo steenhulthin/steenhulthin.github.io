@@ -1,3 +1,8 @@
+---
+layout: blogpost
+categories: Opinion
+---
+
 # The end of the Git Line Ending Story?
 
 <img class="alignnone size-full wp-image-385" alt="boromir_meme_one_does_not_simply_let_git_handle_line_endings" src="https://steen.hulthin.dk/blog/wp-content/uploads/2013/10/boromir_meme_one_does_not_simply_let_git_handle_line_endings.jpg" width="480" height="283" />
@@ -9,7 +14,9 @@ or
 for each text file type is the most declarative/precise way to tell git which files are text and which files are binary.
 
 An alternative starting point for a <code>.gitattributes</code> file is the one <a title="github for windows" href="http://windows.github.com/">github for windows application</a> creates for you. It looks like this:
-<code>
+
+{% highlight txt %}
+
 # Auto detect text files and perform LF normalization
 * text=auto
 # Custom for Visual Studio
@@ -30,7 +37,8 @@ An alternative starting point for a <code>.gitattributes</code> file is the one 
 *.PDF diff=astextplain
 *.rtf diff=astextplain
 *.RTF diff=astextplain
-</code>
+
+{% endhighlight %}
 
 If you read only one more thing about this I think you should make it <a title="stackoverflow answer on best strategy for line ending handling in git" href="http://stackoverflow.com/a/10855862/587279">this stackoverflow answer</a>.
 

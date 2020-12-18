@@ -1,3 +1,8 @@
+---
+layout: blogpost
+categories: opinion
+---
+
 # Partial Frustration Remover on Windows 8 with a Multimonitor Setup
 
 <h2>The Windows 8 start screen takes up my entire primary monitor!</h2>
