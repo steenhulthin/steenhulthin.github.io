@@ -1,5 +1,5 @@
 ---
-layout: steen_hulthin_rasmussen
+layout: base
 title: "Steen Hulthin Rasmussen's Piece of the Web"
 date: 2014-09-09
 ---
@@ -36,7 +36,7 @@ These are the things I love most about myself:
 * Worked as [foreign student 'buddy'](https://www.dtu.dk/english/news/2014/08/dtu-welcomes-900-new-international-students?id=c876f690-ee82-42bb-b3ed-2231f85fe260) coordinator at [the Technical University of Denmark (DTU)](https://www.dtu.dk/english) - hard, but fun. 
 * Lived in Thailand for half a year - twice.
 * Graduated as an Environmental Engineer.
-* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again.html).
+* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again_pooopnuggetsalat).
 * Run half marathon world championship race more than twice as slow as the winner.
 
 ## Community
@@ -65,7 +65,7 @@ Besides writing code I also write blog posts. The topic is mostly technical stuf
 
 ## Me on the web
 
-- Email (encode steen`snabela`hulthin.dk)
+- Email <a href="mailto:&#115;&#116;&#101;&#101;&#110;&#064;&#104;&#117;&#108;&#116;&#104;&#105;&#110;&#046;&#100;&#107;">&#115;&#116;&#101;&#101;&#110;&#064;&#104;&#117;&#108;&#116;&#104;&#105;&#110;&#046;&#100;&#107;</a>
 
 I occasionally use/post on following services on the internet:
 - [Github](https://github.com/steenhulthin)
