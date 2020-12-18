@@ -36,7 +36,7 @@ These are the things I love most about myself:
 * Worked as [foreign student 'buddy'](https://www.dtu.dk/english/news/2014/08/dtu-welcomes-900-new-international-students?id=c876f690-ee82-42bb-b3ed-2231f85fe260) coordinator at [the Technical University of Denmark (DTU)](https://www.dtu.dk/english) - hard, but fun. 
 * Lived in Thailand for half a year - twice.
 * Graduated as an Environmental Engineer.
-* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back).
+* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again).
 * Run half marathon world championship race more than twice as slow as the winner.
 
 ## Community

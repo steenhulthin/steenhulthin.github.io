@@ -6,7 +6,7 @@ categories: [.net gadgeteer, .net micro framework]
 Hello .net Gadgeteer
 ====================
 
-Not too long ago I bought a [FEZ Cerberus Tinker Kit](https://www.ghielectronics.com/catalog/product/455) and a few extra modules. Just for fun and to see if the kids would find that interesting. The Fez Cerberus Tinker Kit contains a [.net gadgeteer](http://www.netmf.com/gadgeteer/) mainboard and some modules. .net gadgeteer is a system in the same ballpark as the [arduino](http://www.arduino.cc/) and [netduino](http://netduino.com/). The gadgeteer system has a bit more horsepower compared to the arduino.
+Not too long ago I bought a [FEZ Cerberus Tinker Kit](https://www.ghielectronics.com/catalog/product/455) and a few extra modules. Just for fun and to see if the kids would find that interesting. The Fez Cerberus Tinker Kit contains a [.net gadgeteer](https://en.wikipedia.org/wiki/.NET_Gadgeteer) mainboard and some modules. .net gadgeteer is a system in the same ballpark as the [arduino](http://www.arduino.cc/) and [netduino](http://netduino.com/). The gadgeteer system has a bit more horsepower compared to the arduino.
 
 If you haven't heard about it you can get an idea about it from listening to this [Dot Net Rocks podcast episode](http://www.dotnetrocks.com/default.aspx?showNum=888).
 
