@@ -1,5 +1,29 @@
 # Web site steenhulthin.github.io todo
 
+- [ ] What should this be?
+     - [ ] home similar to now?
+        - [ ] the short version?
+        - [ ] Chess
+            - [ ] database
+            - [ ] tournaments
+            - [ ] how to 
+            - [ ] links, tools 
+        - [ ] guitar
+        - [ ] family
+        - [ ] living
+        - [ ] work
+        - [ ] outdoor
+        - [ ] running
+        - [ ] coding
+        - [ ] achievements
+        - [ ] During c19
+        - [ ] pumping
+        - [ ] CV
+        - [ ] biking (gravel, with mom)
+        - [ ] 
+     - [ ] blog?
+     - 
+
 - [X] Created and Last modified date
     - [X] Add created and last modified date to landing page.
     - [X] Add created and last modified date to posts.
