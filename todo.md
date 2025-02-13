@@ -22,7 +22,8 @@
         - [ ] biking (gravel, with mom)
         - [ ] 
      - [ ] blog?
-     - 
+     - [ ] Fix layout
+     - [ ] Clean up and simplify
 
 - [X] Created and Last modified date
     - [X] Add created and last modified date to landing page.
