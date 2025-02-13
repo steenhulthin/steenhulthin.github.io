@@ -5,7 +5,7 @@ categories: Opinion
 
 # The end of the Git Line Ending Story?
 
-<img class="alignnone size-full wp-image-385" alt="boromir_meme_one_does_not_simply_let_git_handle_line_endings" src="https://steen.hulthin.dk/blog/wp-content/uploads/2013/10/boromir_meme_one_does_not_simply_let_git_handle_line_endings.jpg" width="480" height="283" />
+<img class="alignnone size-full wp-image-385" alt="boromir_meme_one_does_not_simply_let_git_handle_line_endings" src="https://steenhulthin.github.io/blog/wp-content/uploads/2013/10/boromir_meme_one_does_not_simply_let_git_handle_line_endings.jpg" width="480" height="283" />
 
 Git wants to help you handle line endings in text files (which are different on different platforms) so your code can be easily shared across platforms. To be able to help you with this git needs to know what you consider to be text files (and which files you consider to be binary). You do that by adding a <code>.gitattributes</code> file in the repository (alongside the <code>.git</code> folder). The <code>.gitattributes</code> file should at least contain the line <code>* text=auto</code> (the lazy way) which let's git determine which file are text. However adding a line like:
 <code>*.txt text</code>

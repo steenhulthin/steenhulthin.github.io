@@ -5,7 +5,7 @@ categories: [.net gadgeteer, .net micro framework]
 
 # Hello Tunes Module
 
-<p><a href="https://steen.hulthin.dk/blog/hello-led-strip-gadgeteer-module">Recently I had a look at the gadgeteer LED strip module</a>. This post is about the gadgeteer <a href="https://www.ghielectronics.com/catalog/product/434">Tunes module</a>. The tunes module is a rather crude sound generator. It can generate one track only and there is no control of the wave shape, but it is still good enough simple melodies or - better - an alarm sound.</p>
+<p><a href="https://steenhulthin.github.io/blog/hello-led-strip-gadgeteer-module">Recently I had a look at the gadgeteer LED strip module</a>. This post is about the gadgeteer <a href="https://www.ghielectronics.com/catalog/product/434">Tunes module</a>. The tunes module is a rather crude sound generator. It can generate one track only and there is no control of the wave shape, but it is still good enough simple melodies or - better - an alarm sound.</p>
 
 <h2>The Code</h2>
 

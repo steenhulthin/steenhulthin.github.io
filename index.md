@@ -8,7 +8,7 @@ date: 2014-09-09
 
 I'm a software developer and/or [GIS](http://en.wikipedia.org/wiki/Geographic_information_system) dude. My main expertise is working with digital map, spatial data and GIS products at all levels of the technology stack. 
 
-In my work life I'm a code monkey/GIS consultant in [Geoinfo A/S](https://www.geoinfo.dk). I have standard [CV available for download](https://steen.hulthin.dk/assests/cv_steen_hulthin_rasmussen.pdf) with a standard resume of some of the things I have done professionally even though I'm not a big fan of standard CVs. 
+In my work life I'm a code monkey/GIS consultant in [Geoinfo A/S](https://www.geoinfo.dk). I have standard [CV available for download](https://steenhulthin.github.io/assests/cv_steen_hulthin_rasmussen.pdf) with a standard resume of some of the things I have done professionally even though I'm not a big fan of standard CVs. 
 
 [Copenhagen, Denmark](https://en.wikipedia.org/wiki/Copenhagen) is my home town. I live there together with my girlfriend and between 1 and 3 children. I really enjoy running, biking and chocolate. I love life.
 
@@ -36,7 +36,7 @@ These are the things I love most about myself:
 * Worked as [foreign student 'buddy'](https://www.dtu.dk/english/news/2014/08/dtu-welcomes-900-new-international-students?id=c876f690-ee82-42bb-b3ed-2231f85fe260) coordinator at [the Technical University of Denmark (DTU)](https://www.dtu.dk/english) - hard, but fun. 
 * Lived in Thailand for half a year - twice.
 * Graduated as an Environmental Engineer.
-* [By coincidence become a (untrained) Software Developer](https://steen.hulthin.dk/blog/the-programmer-or-there-and-never-back-again).
+* [By coincidence become a (untrained) Software Developer](https://steenhulthin.github.io/blog/the-programmer-or-there-and-never-back-again).
 * Run half marathon world championship race more than twice as slow as the winner.
 
 ## Community
@@ -61,7 +61,7 @@ In the mostly for fun category are:
 * [CollatzConjecture.Net](https://github.com/steenhulthin/CollatzConjecture.Net) - a .net library for calculating solutions to [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) problems. 
 * [MapBasicUnit](https://steenhulthin.github.io/MapBasicUnit/) - A unit testing library for the MapBasic language. [MapBasic](https://en.wikipedia.org/wiki/MapBasic) is a language for the desktop GIS [MapInfo](https://en.wikipedia.org/wiki/MapInfo_Professional). I don't think anyone has ever used this. 
 
-Besides writing code I also write blog posts. The topic is mostly technical stuff related to software development and/or GIS, but occasionally also about management and team work. You can find my blog on <https://steen.hulthin.dk/blog/>.
+Besides writing code I also write blog posts. The topic is mostly technical stuff related to software development and/or GIS, but occasionally also about management and team work. You can find my blog on <https://steenhulthin.github.io/blog/>.
 
 ## Me on the web
 
